@@ -1,0 +1,19 @@
+# Python files
+__pycache__/
+*.pyc
+
+
+# Environment variables
+.env
+
+
+# Database files
+*.db
+
+
+# Editor files
+.vscode/
+
+
+# Uploaded documents
+uploads/

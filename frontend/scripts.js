@@ -1,0 +1,1 @@
+console.log("RAG Document frontend loaded seccussfully")
